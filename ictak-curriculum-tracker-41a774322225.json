@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ictak-curriculum-tracker",
+  "private_key_id": "41a77432222575c588ecfde36314efe9cfcd2e6e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDUfU/4sGqwm45q\nPaXQAfrrXt5nuzwZ1EPPI/K8c6jRNuJhBrHdarzoGvwu2nnzg8VyGQ5/fJPqfqN7\n/mnfsrI4zHkohgpTjSuYyDmrjE8dV8pszg9j1wqTpKAHZFm0J4ZAISKwNDo8G3+2\nCqP+a5/H/KKVUduv9ixjhtQedOp1tBV8aDxyljHQuaL5p/v1HA1p9GYbuXTIEB2i\n/okVGr05cEM9upvIpvPZ/QZgeiQZEDpOC4fEBIveI3NTpN6edXLEcPL4Vmv3M9uv\n2hWAC4oT9i/17vSvVW6DV/rK7wHHxzB3OJhq0EjGQPNvu/Y/noVSfutHMBFiFHQL\n8Xd2sxY9AgMBAAECggEAZUakyx8qeqpponFnilCnS2+YCVDQQG9PMncrxm5J1A2Y\nsC4EsEejae0SrTIsVchEXzFaG6FAzs81FHAZ/iipkTDDvnDEkzYBxXwJIJ5rRs0F\nCf7cjvV7cQtRyrQlnRwJfJ9ObTU3XFau9BD2QNkC+sqKoyi00JVAat9kUm/fH+Gq\nrBgm0WluYDX/kQwweFc7m2nYdnhZffsBHpUUy0zDShsbL6TjkczM/oHw+ts5zRwK\n6Kwvr2+LECB8gVkf2FWGxAuCWHdQPqJu6oe+BrkwJO7CixEqcpGCu5Y8N6y9Td1P\noGPyX0rSgPsyEhwP4NvaG5w/l8Wkoc6iKUbblKaQcQKBgQDyksRik/9o6lrLABSY\nX1+NVKYgXf4Bglq0NiPtPn6tlbMKwROw79gK+dVXjYGeRG53g0SY4MpKAmbwTjZf\niyEQlBP+a8TcTrqfIs8EoNB31rHy/WovWDBtF9KMd5vUX4CDHgq7gVwZkuP6yKEm\nxkESjYHxCKkdGWFp/0YMqaX05wKBgQDgQEL0T/MR3FX+gJwQYMtzHMSvO7WdgpT/\nQwm4+qABrvbGxiZyzrVIku1/clNkGC6P+Rs/Tn+0Cwuk3uYLiZDG0aKhtRtwdz6s\nh1mb0U32nnGD7ilkojedjhD0pz2hkV04K0lxfULdT6QE5xyhRpY8hL9iqCz2Yvbd\n7Lsc8jWTOwKBgB8YQ0ZjtFztlb/p/bnel/AVBsqlYdctr5TkT8yssy5rPy1EvNJ0\nnFwj1H5JrHDuUr7NO/Dg9+1uy2VIkV3EBvQKF1oI1I5tJS0bGDB+sNp70gnVBFSX\nWHXTlPDesEIUD/Q+2J9aoMTCeKkAKPBAf7zyGNMeChep1jvxNjiPUq/HAoGAd94B\nrAP8QqTLFqH6ScrjlSFghOZeutXs/NEBpm3ZD21NnYyXSrDxN9zJtGEQ8CT45p5a\nESnNmxh4XeWDg9FBoPS3gMaE50XmK2Sh4mcrzFJ/DO1GFPOc1Mv2hj/K8sz3zild\nNZumHRQP8Ur0A8TuU2UFxB9vATh/CrsafWt+dbcCgYB6egQtJeRKoOBRwYNag/q2\nsUkXjA3R9mfvX8tQ2EaJr6W7bxr08xLbHikEPijNOkORlZpi8B4yMTgsnXPs7Awg\nlSqap2NCaLP//bXya6rtMZFMlSGxY6I7SxgPtIprg6v3XqaR5BmkDO5Ukl+fS3D1\ng8tcdzfvcQO3tepdxhAbcA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "curriculum-tracker@ictak-curriculum-tracker.iam.gserviceaccount.com",
+  "client_id": "100671622852762922392",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/curriculum-tracker%40ictak-curriculum-tracker.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
